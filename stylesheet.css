@@ -1,0 +1,75 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+
+.id{
+    background-color:red;
+    color: white;
+    padding: 15px;
+}
+li,ul,h2{
+    display: inline;
+}
+ul{
+    margin-left: 70%;
+}
+li{
+    color: black;
+    cursor: pointer;
+}
+li:hover{
+    color: white;
+}
+input{
+    width: 70%;
+    padding: 15px;
+}
+.search{
+    padding: 50px;
+    text-align: center;
+}
+.nike{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    width: 290px;
+}
+.puma{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    width: 205px;
+}
+.adidas{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    width: 275px;
+}
+.product{
+    text-align: center;
+}
+button{
+    cursor: pointer;
+    background-color:lightblue;
+}
+button:hover{
+    color: red;
+}
+.aboutus{
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+    color:black;
+}
+.Contact{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    padding: 25px;
+}
